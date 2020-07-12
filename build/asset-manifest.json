@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gaewida/WEB215/Lesson14/static/css/main.57516534.chunk.css",
+    "main.js": "/gaewida/WEB215/Lesson14/static/js/main.9276887c.chunk.js",
+    "main.js.map": "/gaewida/WEB215/Lesson14/static/js/main.9276887c.chunk.js.map",
+    "runtime-main.js": "/gaewida/WEB215/Lesson14/static/js/runtime-main.3961be91.js",
+    "runtime-main.js.map": "/gaewida/WEB215/Lesson14/static/js/runtime-main.3961be91.js.map",
+    "static/js/2.5fb28f62.chunk.js": "/gaewida/WEB215/Lesson14/static/js/2.5fb28f62.chunk.js",
+    "static/js/2.5fb28f62.chunk.js.map": "/gaewida/WEB215/Lesson14/static/js/2.5fb28f62.chunk.js.map",
+    "index.html": "/gaewida/WEB215/Lesson14/index.html",
+    "precache-manifest.fe4682d7357d075139f39ab280698b9d.js": "/gaewida/WEB215/Lesson14/precache-manifest.fe4682d7357d075139f39ab280698b9d.js",
+    "service-worker.js": "/gaewida/WEB215/Lesson14/service-worker.js",
+    "static/css/main.57516534.chunk.css.map": "/gaewida/WEB215/Lesson14/static/css/main.57516534.chunk.css.map",
+    "static/js/2.5fb28f62.chunk.js.LICENSE": "/gaewida/WEB215/Lesson14/static/js/2.5fb28f62.chunk.js.LICENSE",
+    "static/media/ex.jpg": "/gaewida/WEB215/Lesson14/static/media/ex.e3c565ae.jpg",
+    "static/media/ex1.jpg": "/gaewida/WEB215/Lesson14/static/media/ex1.cc8e3271.jpg",
+    "static/media/ex2.jpg": "/gaewida/WEB215/Lesson14/static/media/ex2.ce638990.jpg",
+    "static/media/ex3.jpg": "/gaewida/WEB215/Lesson14/static/media/ex3.8c18b3ec.jpg",
+    "static/media/self.jpg": "/gaewida/WEB215/Lesson14/static/media/self.750b2d67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3961be91.js",
+    "static/js/2.5fb28f62.chunk.js",
+    "static/css/main.57516534.chunk.css",
+    "static/js/main.9276887c.chunk.js"
+  ]
+}
